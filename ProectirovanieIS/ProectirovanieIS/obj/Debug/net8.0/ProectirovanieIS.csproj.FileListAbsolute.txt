@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\bin\Debug\net8.0\ProectirovanieIS.exe
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\bin\Debug\net8.0\ProectirovanieIS.deps.json
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\bin\Debug\net8.0\ProectirovanieIS.runtimeconfig.json
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\bin\Debug\net8.0\ProectirovanieIS.dll
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\bin\Debug\net8.0\ProectirovanieIS.pdb
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\obj\Debug\net8.0\ProectirovanieIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\obj\Debug\net8.0\ProectirovanieIS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\obj\Debug\net8.0\ProectirovanieIS.AssemblyInfo.cs
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\obj\Debug\net8.0\ProectirovanieIS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\obj\Debug\net8.0\ProectirovanieIS.dll
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\obj\Debug\net8.0\refint\ProectirovanieIS.dll
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\obj\Debug\net8.0\ProectirovanieIS.pdb
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\obj\Debug\net8.0\ProectirovanieIS.genruntimeconfig.cache
+C:\Users\User\source\repos\ProectirovanieIS\ProectirovanieIS\obj\Debug\net8.0\ref\ProectirovanieIS.dll
